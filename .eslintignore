@@ -1,0 +1,5 @@
+.vscode
+.idea
+.local
+node_modules
+**/*.d.ts
